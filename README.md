@@ -2,6 +2,9 @@
   I am in Seoul(kor) & Vantaa(Fin)   
   My goal is to be a good programmer     
   The skill I possess is HTML, CSS, JS, JQuery, Spring, Java, Oracle and MySQL   
+  
+  ### GitHub Stats⚡
+![ISA github stats](https://github-readme-stats.vercel.app/api?username=MoonSeokHyun&count_private=true&show_icons=true&theme=radical)
    
   Thank you for reading :)
 <p align="center">
