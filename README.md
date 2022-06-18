@@ -20,7 +20,7 @@
 </p>
 <br>
 
-<h3 align="center">🛠 참조 링크 🛠</h3>
+<h3 align="center">👩‍💼  참조 링크 👩‍💼</h3>
 <div align="center">
    <span align="center" ><a href="https://devofroad.tistory.com/">🐱티스토리 블로그🐱</a></span>
    <span align="center" ><a href="https://devofroad.tistory.com/](https://omniscient-hole-b24.notion.site/9819466d49304566bd3de5d62c62f1e5">🤔노션 이력서🤔</a></span>
